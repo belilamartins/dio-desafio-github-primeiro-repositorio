@@ -4,6 +4,10 @@ GIT - Sistema distrubuído e Seguro, gera um código e armazena de forma segura 
 
 SHA1 - Chave de segurança do arquivo. A cada alteração que faço no arquivo uma nova chave é gerada, pois o mesmo foi alterado.
 
+Chave SSH - chave pública e privada. Reconhece a minha máquina como segura.
+
+Markdown - MD arquivo saldo do Git Hub.
+
 Estrutura: 
 
 Blob - Tree - Commit
@@ -13,3 +17,30 @@ Sendo:
 Blob - tipo do objeto e tamanho da spring.
 Tree - agrupa os Blobs. Monta a estrutura do arquivo.
 Commit - Dá significado, com mais informações como autor, mensagem ...
+
+Comandos:
+
+GIT
+
+dir - diretórtios
+cd - caminhar pelas pastas
+cls - limpar
+cd .. - voltar pasta anterior
+rmdr - deletar totamente uma pasta (todo o seu conteúdo e subpastas)
+TAB - completa o caminho
+mkdir - criar nova pasta
+Ctrl + L - Limpa tela
+ls - listar
+ls -a - mostra arquivos ocultos
+mv - mover
+
+GIT HUB
+
+git remove - remover
+git push - empurra
+git pull - puxar
+git clone - clonar, copiar
+git add . - adicionar
+git init - iniciar
+git status - status da pasta 
+git commit - associa ao GitHub
