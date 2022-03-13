@@ -1,0 +1,15 @@
+Anotações do Curso
+
+GIT - Sistema distrubuído e Seguro, gera um código e armazena de forma segura na nuvem.
+
+SHA1 - Chave de segurança do arquivo. A cada alteração que faço no arquivo uma nova chave é gerada, pois o mesmo foi alterado.
+
+Estrutura: 
+
+Blob - Tree - Commit
+
+Sendo:
+
+Blob - tipo do objeto e tamanho da spring.
+Tree - agrupa os Blobs. Monta a estrutura do arquivo.
+Commit - Dá significado, com mais informações como autor, mensagem ...
